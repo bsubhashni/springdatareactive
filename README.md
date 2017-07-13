@@ -3,10 +3,10 @@
 
 A simple activity tracking application using Spring data couchbase and Spring boot
 
-##Setup
+## Setup
 
 Create a bucket called `activitytracker` and add a primary N1QL index.
 
-##To Run
+## To Run
 
 `mvn spring-boot:run`
